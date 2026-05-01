@@ -19,3 +19,17 @@ Check back after new videos for any downloadable content mentioned.
 ---
 
 *Work Play Have Fun — Always Be Learning. Share Knowledge. Try to Have Fun.*
+
+---
+## Why an otter? 🦦
+
+The otter is the mascot and spirit animal of Work Play Have Fun — and it's not a random choice.
+
+**Work** — Otters are skilled hunters. Cracking open shellfish, catching fish, foraging. It takes real effort and technique.
+
+**Play** — Otters are famously one of the most playful animals around, chasing each other and batting objects about well into adulthood.
+
+**Have Fun** — They're well known for sliding down muddy or snowy banks purely for the joy of it, then climbing back up to do it again.
+
+Work hard, play often, and enjoy the ride. That's the idea.
+
