@@ -11,6 +11,10 @@ documents, and other useful assets mentioned in videos on the
 Resources will be added here over time as the channel grows. 
 Check back after new videos for any downloadable content mentioned.
 
+### Guides
+
+- [Mac Local AI Install Guide - Part 1](Mac%20Local%20AI%20Install%20Guide%20-%20Part%201.md) — run a private AI on your Mac with Ollama (from *Running Local AI at Home — Why My £1,200 Mac Mini Went Back*)
+
 ## Links
 
 - YouTube: https://youtube.com/@workplayhavefun
