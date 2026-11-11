@@ -11,7 +11,7 @@ A private AI chatbot running entirely on your own Mac. Nothing you type leaves t
 
 This is Part 1: the simplest setup that works. **Ollama** (the free app that runs AI models) plus a few small models, all done in Terminal. It's what I set up in the video.
 
-**Part 2** (coming with the next video) makes it usable by the whole family from their phones and laptops, through a browser.
+**[Part 2](Mac%20Local%20AI%20Install%20Guide%20-%20Part%202.md)** makes it usable by the whole family from their phones and laptops, through a browser.
 
 > **A word of honesty before you start.** Local models are noticeably less capable than ChatGPT, Claude or Gemini, and their knowledge stops at their training date (some of mine were stuck in 2024). Privacy works brilliantly. Just don't expect a like-for-like replacement for the online models. Yet.
 
@@ -156,7 +156,7 @@ ollama rm qwen3:14b
 
 ## What's next
 
-In **Part 2** I make the local AI available to the whole family from their phones and laptops, through a proper chat page in the browser, with their own accounts. The guide for that will be added here when the video goes out.
+In **[Part 2](Mac%20Local%20AI%20Install%20Guide%20-%20Part%202.md)** I make the local AI available to the whole family from their phones and laptops, through a proper chat page in the browser (Open WebUI), with their own accounts.
 
 ---
 
