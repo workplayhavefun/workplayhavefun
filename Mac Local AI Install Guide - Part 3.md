@@ -146,6 +146,12 @@ It works from a phone too, the same as in Part 2: open your Mac's address on por
 
 ---
 
+## What's next
+
+In **[Part 4](Mac%20Local%20AI%20Install%20Guide%20-%20Part%204.md)** I try AI agents that do jobs, not just chat, with AnythingLLM on the same Mac.
+
+---
+
 ## Changed your mind? Undoing it all
 
 ```bash
