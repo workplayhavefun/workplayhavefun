@@ -159,6 +159,12 @@ then run the `docker run` command from Step 2 again.
 
 ---
 
+## What's next
+
+In **[Part 3](Mac%20Local%20AI%20Install%20Guide%20-%20Part%203.md)** I give the local AI the internet: free web search with SearXNG, running in Docker on the same Mac.
+
+---
+
 ## Changed your mind? Undoing it all
 
 ```bash

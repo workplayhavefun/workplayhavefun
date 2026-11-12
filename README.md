@@ -15,6 +15,7 @@ Check back after new videos for any downloadable content mentioned.
 
 - [Mac Local AI Install Guide - Part 1](Mac%20Local%20AI%20Install%20Guide%20-%20Part%201.md) — run a private AI on your Mac with Ollama (from *Running Local AI at Home — Why My £1,200 Mac Mini Went Back*)
 - [Mac Local AI Install Guide - Part 2](Mac%20Local%20AI%20Install%20Guide%20-%20Part%202.md) — share it with the whole family through Open WebUI and Docker (from *Local AI for the Whole Family — Can One Mac Mini Cope With Three at Once?*)
+- [Mac Local AI Install Guide - Part 3](Mac%20Local%20AI%20Install%20Guide%20-%20Part%203.md) — give it the internet with free web search through SearXNG (from *My Local AI Was Stuck in 2024 — Free Web Search With SearXNG*)
 
 ## Links
 
